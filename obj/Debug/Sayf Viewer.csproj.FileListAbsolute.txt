@@ -1,0 +1,11 @@
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\bin\Debug\Sayf Viewer.exe.config
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\bin\Debug\Sayf Viewer.exe
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\bin\Debug\Sayf Viewer.pdb
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf Viewer.csproj.AssemblyReference.cache
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf_Viewer.Form1.resources
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf_Viewer.Properties.Resources.resources
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf Viewer.csproj.GenerateResource.cache
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf Viewer.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf Viewer.exe
+C:\Users\ACER PREDATOR 300\Desktop\Projects\Sayf Viewer\obj\Debug\Sayf Viewer.pdb
